@@ -16,7 +16,6 @@ Constraints:
 
 The given address is a valid IPv4 address.
 """
-from typing import List
 
 
 def defangIPaddr(address: str) -> str:
